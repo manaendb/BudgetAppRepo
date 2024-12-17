@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1733169147 source:c:\users\manae\documents\c++\budget app\additionalmethods.cpp
+	"AdditionalMethods.h"
+
+1733169147 c:\users\manae\documents\c++\budget app\additionalmethods.h
+	<iostream>
+	<sstream>
+	<algorithm>
+	<fstream>
+
+1734435387 source:c:\users\manae\documents\c++\budget app\budgetapp.cpp
+	"BudgetApp.h"
+
+1734380354 c:\users\manae\documents\c++\budget app\budgetapp.h
+	<iostream>
+	"UserManager.h"
+	"IncomeExpenseManager.h"
+
+1732540495 c:\users\manae\documents\c++\budget app\usermanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<fstream>
+	<sstream>
+	"User.h"
+	"AdditionalMethods.h"
+	"FileWithUsers.h"
+
+1718295975 c:\users\manae\documents\c++\budget app\user.h
+	<iostream>
+
+1732541255 c:\users\manae\documents\c++\budget app\filewithusers.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<fstream>
+	"User.h"
+	"Markup.h"
+
+1303067212 c:\users\manae\documents\c++\budget app\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1734435502 c:\users\manae\documents\c++\budget app\incomeexpensemanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<iomanip>
+	<sstream>
+	<conio.h>
+	<algorithm>
+	"Income.h"
+	"Expense.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+	"DateMethods.h"
+
+1734354297 c:\users\manae\documents\c++\budget app\income.h
+	<iostream>
+
+1733860568 c:\users\manae\documents\c++\budget app\expense.h
+	<iostream>
+
+1734370936 c:\users\manae\documents\c++\budget app\filewithincomes.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	"Income.h"
+	"AdditionalMethods.h"
+	"Markup.h"
+
+1734371019 c:\users\manae\documents\c++\budget app\filewithexpenses.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	"Expense.h"
+	"AdditionalMethods.h"
+	"Markup.h"
+
+1733860522 source:c:\users\manae\documents\c++\budget app\expense.cpp
+	"Expense.h"
+
+1734371007 source:c:\users\manae\documents\c++\budget app\filewithexpenses.cpp
+	"FileWithExpenses.h"
+
+1734370963 source:c:\users\manae\documents\c++\budget app\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1732541255 source:c:\users\manae\documents\c++\budget app\filewithusers.cpp
+	"FileWithUsers.h"
+
+1733169147 source:c:\users\manae\documents\c++\budget app\income.cpp
+	"Income.h"
+
+1734437040 source:c:\users\manae\documents\c++\budget app\incomeexpensemanager.cpp
+	"IncomeExpenseManager.h"
+
+1734380288 source:c:\users\manae\documents\c++\budget app\main.cpp
+	<iostream>
+	"BudgetApp.h"
+
+1303067212 source:c:\users\manae\documents\c++\budget app\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1731499447 source:c:\users\manae\documents\c++\budget app\user.cpp
+	"User.h"
+
+1732541576 source:c:\users\manae\documents\c++\budget app\usermanager.cpp
+	"UserManager.h"
+
+1734379452 c:\users\manae\documents\c++\budget app\datemethods.h
+	<iostream>
+	<sstream>
+	<ctime>
+	<string>
+
+1734379618 source:c:\users\manae\documents\c++\budget app\datemethods.cpp
+	"DateMethods.h"
+
